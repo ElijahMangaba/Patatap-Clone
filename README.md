@@ -22,5 +22,5 @@ Any modern web browser such as Google Chrome, Safari, or Mozilla Firefox.
 
 
 ## Acknowledgments
-* https://www.udemy.com/course/the-web-developer-bootcamp/ (Fun little code along project from this course on Udemy! All credit goes to Colt Steele, the teacher of the course.)
+* https://www.udemy.com/course/the-web-developer-bootcamp/  - Code along project from this course on Udemy! All credit goes to the teacher of this course, Colt Steele.
 * https://patatap.com
