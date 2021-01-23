@@ -5,7 +5,7 @@ A project that culminates all of the things I learned about the Front-End of a w
 
 ## Getting Started
 
-* You can either download the zip file or use git clone
+* You can either download the zip file or use git clone via HTTPS
 * Open the index.html file to see a live demo
 * Press any alphabetical key on your keyboard to experience the rhythm of the sounds with random colored circle animations.
 
