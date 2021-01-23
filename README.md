@@ -1,6 +1,6 @@
 # Patatap-Clone
 
-A clone of a visual sound kit application called Patatap. Uses the exact same sounds that Patatap uses. 
+A project that culminates of the things I learned about the Front-End of a web application. This project is a clone of a visual sound kit application called Patatap. Additionally, this project uses the exact same sounds that Patatap uses. 
 
 
 ## Getting Started
